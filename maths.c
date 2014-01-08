@@ -9,5 +9,8 @@ int main()
 	scanf("%i", &b);
 	c = a+b;
 	printf("A + B = %i\n",c);
+	c = 0;
+	c = a-b;
+	printf("A - B = %i\n",c);
 	return 0;
 }
