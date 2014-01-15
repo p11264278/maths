@@ -12,5 +12,8 @@ int main()
 	c = 0;
 	c = a-b;
 	printf("A - B = %i\n",c);
+	c = 0;
+	c = a*b;
+	printf("A * C = %i\n",c);
 	return 0;
 }
