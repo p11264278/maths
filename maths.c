@@ -3,9 +3,9 @@
 int main()
 {
 	int a,b,c;
-	printf("Enter a value for a: ");
+	printf("Enter the value for a: ");
 	scanf("%i", &a);
-	printf("Enter a value for b: ");
+	printf("Enter the value for b: ");
 	scanf("%i", &b);
 	c = a+b;
 	printf("A + B = %i\n",c);
